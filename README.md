@@ -12,6 +12,6 @@ Main Languages
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=iam-one&show_icons=true&theme=dark)
 
-![ig](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one._.im)
+[![ig](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/one._.im)](https://www.instagram.com/one._.im)
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiam-one&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
